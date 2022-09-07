@@ -40,5 +40,6 @@ static void Distance3D()
     }
 }
 Distance3D();
-emptyString(6);
 Console.WriteLine(text);
+emptyString(6);
+
