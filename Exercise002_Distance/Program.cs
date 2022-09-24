@@ -8,14 +8,6 @@
     }
 }
 
-emptyString(6);
-string text = new String('*', 40);         // Выводит заданное количество символов,
-                                           //  в данном случае 40
-Console.WriteLine("    Задача 2");
-Console.WriteLine(text);
-emptyString(1);
-Console.WriteLine("  Напишите программу, которая принимает \r\nна вход координаты двух точек и \r\nнаходит расстояние между ними в 3D пространстве.");
-emptyString(1);
 static void Distance3D()
 {
     try
@@ -39,6 +31,13 @@ static void Distance3D()
         Distance3D();
     }
 }
+emptyString(6);
+string text = new String('*', 40);  // Выводит заданное количество символов, в данном случае 40
+Console.WriteLine("    Задача 2");
+Console.WriteLine(text);
+emptyString(1);
+Console.WriteLine("  Напишите программу, которая принимает \r\nна вход координаты двух точек и \r\nнаходит расстояние между ними в 3D пространстве.");
+emptyString(1);
 Distance3D();
 Console.WriteLine(text);
 emptyString(6);
