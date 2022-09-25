@@ -16,7 +16,7 @@ static void Distance3D()
         double x1 = double.Parse(Console.ReadLine());
         double y1 = double.Parse(Console.ReadLine());
         double z1 = double.Parse(Console.ReadLine());
-        Console.WriteLine("  Введите координаты второй точки: ");
+        Console.WriteLine($"  Введите координаты второй точки: ");
         double x2 = double.Parse(Console.ReadLine());
         double y2 = double.Parse(Console.ReadLine());
         double z2 = double.Parse(Console.ReadLine());
@@ -40,5 +40,5 @@ Console.WriteLine("  Напишите программу, которая при�
 emptyString(1);
 Distance3D();
 Console.WriteLine(text);
-emptyString(6);
+emptyString(2);
 
