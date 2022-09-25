@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Информатика\\Языки программирование\\Home_Work_03\\Exercise001_Palindrome\\Exercise001_Palindrome.csproj": {}
+    "C:\\Users\\user\\Desktop\\Информатика\\Языки программирование\\C#\\Home_Work_03\\Exercise001_Palindrome\\Exercise001_Palindrome.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Информатика\\Языки программирование\\Home_Work_03\\Exercise001_Palindrome\\Exercise001_Palindrome.csproj": {
+    "C:\\Users\\user\\Desktop\\Информатика\\Языки программирование\\C#\\Home_Work_03\\Exercise001_Palindrome\\Exercise001_Palindrome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Информатика\\Языки программирование\\Home_Work_03\\Exercise001_Palindrome\\Exercise001_Palindrome.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Информатика\\Языки программирование\\C#\\Home_Work_03\\Exercise001_Palindrome\\Exercise001_Palindrome.csproj",
         "projectName": "Exercise001_Palindrome",
-        "projectPath": "C:\\Users\\user\\Desktop\\Информатика\\Языки программирование\\Home_Work_03\\Exercise001_Palindrome\\Exercise001_Palindrome.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Информатика\\Языки программирование\\C#\\Home_Work_03\\Exercise001_Palindrome\\Exercise001_Palindrome.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Информатика\\Языки программирование\\Home_Work_03\\Exercise001_Palindrome\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Информатика\\Языки программирование\\C#\\Home_Work_03\\Exercise001_Palindrome\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

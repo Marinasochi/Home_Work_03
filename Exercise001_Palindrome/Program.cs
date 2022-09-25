@@ -8,15 +8,9 @@
     }
 }
 
-emptyString(6);
 string text = new String('*', 40);          // Выводит заданное количество символов,
-                                            //  в данном случае 40
-Console.WriteLine("    Задача 1");
-Console.WriteLine(text);
-emptyString(1);
-Console.WriteLine("  Напишите программу, которая принимает\r\n на вход пятизначное число и проверяет,\r\n является ли оно палиндромом.");
-emptyString(1);
-static void Palindrome()
+
+static void Palindrome()                                            //  в данном случае 40
 {
     try
     {
@@ -47,6 +41,12 @@ static void Palindrome()
         Palindrome();
     }
 }
-Palindrome();
 emptyString(6);
+Console.WriteLine("    Задача 1");
+Console.WriteLine(text);
+emptyString(1);
+Console.WriteLine("  Напишите программу, которая принимает\r\n на вход пятизначное число и проверяет,\r\n является ли оно палиндромом.");
+emptyString(1);
+Palindrome();
+emptyString(1);
 Console.WriteLine(text);
